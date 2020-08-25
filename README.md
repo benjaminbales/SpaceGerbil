@@ -1,2 +1,2 @@
 # SpaceGerbil
-2D web game for GGJ20 theme "repair".
+2D web game for Austin Global Game Jam 2020 theme "repair".
